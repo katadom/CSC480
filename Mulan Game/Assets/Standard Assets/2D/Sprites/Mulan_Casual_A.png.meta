@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 04814ecfb6e374b7fac4e7639e2b5970
-timeCreated: 1512153074
+timeCreated: 1512578082
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -102,12 +102,12 @@ TextureImporter:
       name: Mulan_Casual_A_0
       rect:
         serializedVersion: 2
-        x: 7
+        x: 10
         y: 4
-        width: 27
+        width: 34
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -121,7 +121,7 @@ TextureImporter:
         width: 28
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -135,7 +135,7 @@ TextureImporter:
         width: 31
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -149,7 +149,7 @@ TextureImporter:
         width: 28
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -163,7 +163,7 @@ TextureImporter:
         width: 27
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -177,7 +177,7 @@ TextureImporter:
         width: 27
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -191,7 +191,7 @@ TextureImporter:
         width: 26
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -205,7 +205,7 @@ TextureImporter:
         width: 25
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
