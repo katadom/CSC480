@@ -1,17 +1,15 @@
 fileFormatVersion: 2
-guid: 04814ecfb6e374b7fac4e7639e2b5970
-timeCreated: 1512578082
+guid: b17728aad0e4840479d48bd74c01200d
+timeCreated: 1512499930
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Mulan_Casual_A_0
-    21300002: Mulan_Casual_A_1
-    21300004: Mulan_Casual_A_2
-    21300006: Mulan_Casual_A_3
-    21300008: Mulan_Casual_A_4
-    21300010: Mulan_Casual_A_5
-    21300012: Mulan_Casual_A_6
-    21300014: Mulan_Casual_A_7
+    21300000: Black_Leopard_swing_sword_0
+    21300002: Black_Leopard_swing_sword_1
+    21300004: Black_Leopard_swing_sword_2
+    21300006: Black_Leopard_swing_sword_3
+    21300008: Black_Leopard_swing_sword_4
+    21300010: Black_Leopard_swing_sword_5
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -99,113 +97,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mulan_Casual_A_0
+      name: Black_Leopard_swing_sword_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 4
-        width: 34
+        x: 69
+        y: 38
+        width: 36
         height: 49
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_Casual_A_1
+      name: Black_Leopard_swing_sword_1
       rect:
         serializedVersion: 2
-        x: 75
-        y: 4
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_2
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 4
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_3
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 4
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_4
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 4
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_5
-      rect:
-        serializedVersion: 2
-        x: 328
-        y: 4
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_6
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 4
+        x: 269
+        y: 38
         width: 26
-        height: 49
+        height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_Casual_A_7
+      name: Black_Leopard_swing_sword_2
       rect:
         serializedVersion: 2
-        x: 457
-        y: 4
-        width: 25
+        x: 464
+        y: 38
+        width: 24
         height: 49
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_Leopard_swing_sword_3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 38
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_Leopard_swing_sword_4
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 38
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_Leopard_swing_sword_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 38
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

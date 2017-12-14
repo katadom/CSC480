@@ -1,17 +1,22 @@
 fileFormatVersion: 2
-guid: 04814ecfb6e374b7fac4e7639e2b5970
-timeCreated: 1512578082
+guid: 9d108286c196f4169af806290fdbbc3a
+timeCreated: 1512412835
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Mulan_Casual_A_0
-    21300002: Mulan_Casual_A_1
-    21300004: Mulan_Casual_A_2
-    21300006: Mulan_Casual_A_3
-    21300008: Mulan_Casual_A_4
-    21300010: Mulan_Casual_A_5
-    21300012: Mulan_Casual_A_6
-    21300014: Mulan_Casual_A_7
+    21300000: Grand_Marshall_Punching_0
+    21300002: Grand_Marshall_Punching_1
+    21300004: Grand_Marshall_Punching_2
+    21300006: Grand_Marshall_Punching_3
+    21300008: Grand_Marshall_Punching_4
+    21300010: Grand_Marshall_Punching_5
+    21300012: Grand_Marshall_Punching_6
+    21300014: Grand_Marshall_Punching_7
+    21300016: Grand_Marshall_Punching_8
+    21300018: Grand_Marshall_Punching_9
+    21300020: Grand_Marshall_Punching_10
+    21300022: Grand_Marshall_Punching_11
+    21300024: Grand_Marshall_Punching_12
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -99,113 +104,183 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mulan_Casual_A_0
+      name: Grand_Marshall_Punching_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 4
-        width: 34
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_1
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 4
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_2
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 4
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_3
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 4
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_4
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 4
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_5
-      rect:
-        serializedVersion: 2
-        x: 328
-        y: 4
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_6
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 4
-        width: 26
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mulan_Casual_A_7
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 4
+        x: 7
+        y: 5
         width: 25
-        height: 49
+        height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 5
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 5
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 5
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 5
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 5
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 5
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_10
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 5
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 5
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grand_Marshall_Punching_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 5
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
