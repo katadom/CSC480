@@ -6,44 +6,47 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/homeScene.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 48f8d6275f029b849825879b231c59b5
+  - enabled: 0
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/familyPictureScene.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/homeScene2.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/warEquipment.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/homeScene3.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/mapScene.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/travellingScene.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/palaceScene1.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/battlefieldScene.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/palaceScene2.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/travellingHomeScene.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/homeScene4.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/weddingScene.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/FINALSceneWedding.unity
+    path: 
     guid: 00000000000000000000000000000000
