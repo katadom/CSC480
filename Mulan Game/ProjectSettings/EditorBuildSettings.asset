@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Menu.unity
+    path: 
     guid: 48f8d6275f029b849825879b231c59b5
   - enabled: 0
     path: 
@@ -50,3 +50,63 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/battlefieldLesson.unity
+    guid: 0d1284c168bf2844bab2226b42f48954
+  - enabled: 1
+    path: Assets/Scenes/battlefieldScene.unity
+    guid: d8fd36202f42e49328b9217716acd2ad
+  - enabled: 1
+    path: Assets/Scenes/finalMakeupScene.unity
+    guid: a25630401f4524cfab8b3a8a1567f757
+  - enabled: 1
+    path: Assets/Scenes/travellingScene.unity
+    guid: 9c660751a63964efebf4b28b1b16af5e
+  - enabled: 1
+    path: Assets/Scenes/warEquipment.unity
+    guid: 7f79b225d34514eb58f6bd12ad47b556
+  - enabled: 1
+    path: Assets/Scenes/palaceScene1a.unity
+    guid: a450d00679973ea4599fe451cb006ae6
+  - enabled: 1
+    path: Assets/Scenes/palaceScene2Lesson.unity
+    guid: fd69a236b19748743a3754fe900a670c
+  - enabled: 1
+    path: Assets/Scenes/palaceScene1.unity
+    guid: 10192017e141f4b6ab1b03190f049cde
+  - enabled: 1
+    path: Assets/Scenes/mapSceneLesson.unity
+    guid: 235a98b7153802749bc65511c89cbcf0
+  - enabled: 1
+    path: Assets/Scenes/weddingScene.unity
+    guid: 7fd44a08fafc84c40889ca3d3e0bf269
+  - enabled: 1
+    path: Assets/Scenes/familyPictureScene.unity
+    guid: 4f43c9486e3584be2a848b79ab7b99cd
+  - enabled: 1
+    path: Assets/Scenes/palaceScene2.unity
+    guid: 35c31f0934caf46da8371dee9c7696cd
+  - enabled: 1
+    path: Assets/Scenes/homeScene3.unity
+    guid: ff8fbf89de1a7e340a8c44baccc0b9c0
+  - enabled: 1
+    path: Assets/Scenes/homeScene.unity
+    guid: ba4929997e12a44e2b6f68447ff652ed
+  - enabled: 1
+    path: Assets/Scenes/mapScene.unity
+    guid: 40b89cc91cffa4ca49139f35f545e65f
+  - enabled: 1
+    path: Assets/Scenes/homeScene2.unity
+    guid: 7ca7218bc06ad43a396a0f16c2250175
+  - enabled: 1
+    path: Assets/Scenes/travellingHomeScene.unity
+    guid: 3efc92eb1602f438184560659098c086
+  - enabled: 1
+    path: Assets/Scenes/warEquipmentLesson.unity
+    guid: 0bcafedd62b9e744e8f87a796b9910f8
+  - enabled: 1
+    path: Assets/Scenes/homeScene4.unity
+    guid: ab8deafd9dc5ffa419d64d71d82ba4b0
+  - enabled: 1
+    path: Assets/Scenes/weddingLesson.unity
+    guid: 419df83e7dff29342a5c7f7beb7e8c74

@@ -6,19 +6,40 @@ public class InputManager : MonoBehaviour
     private bool draggingItem = false;
     private GameObject draggedObject;
     private Vector2 touchOffset;
+	private int i = 0;
 
-    void Update()
+	void Update()
     {
         if (HasInput)
         {
             DragOrPickUp();
+			sceneTransition ();
+
         }
         else
         {
             if (draggingItem)
                 DropItem();
+			sceneTransition ();
         }
+		sceneTransition ();
     }
+
+	private void sceneTransition(){
+		if (Input.GetKeyDown (KeyCode.N)) {
+			print ("key was pressed");
+			Application.LoadLevel (i);
+			i++;
+			print (i);
+			if (i > 19) {
+				i = 0;
+			}
+			print (i);
+		}
+
+	}
+
+
     Vector2 CurrentTouchPosition
     {
         get
@@ -26,6 +47,7 @@ public class InputManager : MonoBehaviour
             return Camera.main.ScreenToWorldPoint(Input.mousePosition);
         }
     }
+
     private void DragOrPickUp()
     {
         var inputPosition = CurrentTouchPosition;
@@ -52,10 +74,11 @@ public class InputManager : MonoBehaviour
     }
     private bool HasInput
     {
-        get
-        {
+		get{
             // returns true if either the mouse button is down or at least one touch is felt on the screen
-            return Input.GetMouseButton(0);
+			i++;
+			sceneTransition();
+			return Input.GetMouseButton (0);
         }
     }
     void DropItem()
