@@ -6,19 +6,53 @@ public class InputManager : MonoBehaviour
     private bool draggingItem = false;
     private GameObject draggedObject;
     private Vector2 touchOffset;
+<<<<<<< HEAD
 
     void Update()
+=======
+	private int i = 0;
+
+	void Update()
+>>>>>>> a9fd71bb4186004e69c88cda540c84436d787391
     {
         if (HasInput)
         {
             DragOrPickUp();
+<<<<<<< HEAD
+=======
+			sceneTransition ();
+
+>>>>>>> a9fd71bb4186004e69c88cda540c84436d787391
         }
         else
         {
             if (draggingItem)
                 DropItem();
+<<<<<<< HEAD
         }
     }
+=======
+			sceneTransition ();
+        }
+		sceneTransition ();
+    }
+
+	private void sceneTransition(){
+		if (Input.GetKeyDown (KeyCode.N)) {
+			print ("key was pressed");
+			Application.LoadLevel (i);
+			i++;
+			print (i);
+			if (i > 19) {
+				i = 0;
+			}
+			print (i);
+		}
+
+	}
+
+
+>>>>>>> a9fd71bb4186004e69c88cda540c84436d787391
     Vector2 CurrentTouchPosition
     {
         get
@@ -26,6 +60,10 @@ public class InputManager : MonoBehaviour
             return Camera.main.ScreenToWorldPoint(Input.mousePosition);
         }
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> a9fd71bb4186004e69c88cda540c84436d787391
     private void DragOrPickUp()
     {
         var inputPosition = CurrentTouchPosition;
@@ -52,10 +90,18 @@ public class InputManager : MonoBehaviour
     }
     private bool HasInput
     {
+<<<<<<< HEAD
         get
         {
             // returns true if either the mouse button is down or at least one touch is felt on the screen
             return Input.GetMouseButton(0);
+=======
+		get{
+            // returns true if either the mouse button is down or at least one touch is felt on the screen
+			i++;
+			sceneTransition();
+			return Input.GetMouseButton (0);
+>>>>>>> a9fd71bb4186004e69c88cda540c84436d787391
         }
     }
     void DropItem()
